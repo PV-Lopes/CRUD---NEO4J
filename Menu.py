@@ -1,6 +1,6 @@
 from neo4j import GraphDatabase
 
-# Configurações de conexão(Credenciais)
+# Configurações de conexão(Credenciais, isso é apenas um exemplo)
 
 URI = "bolt://localhost:7687"
 USER = "neo4j"
