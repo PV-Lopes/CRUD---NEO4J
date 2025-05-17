@@ -4,6 +4,6 @@
 
 use "cd CRUD---NEO4J"
 
-Use "pip install neo4j" no terminal para instalar a biblioteca do neo4j
+Use "pip install neo4j" no terminal, para instalar a biblioteca do neo4j
 
 Use "python Menu.py" para iniciar
